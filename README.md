@@ -27,3 +27,5 @@ A basic Spring Boot application that introduces key components like controllers,
 
 ## Screenshots
 
+![greeting](pictures/greeting.png)
+![vistula](pictures/vistula.png)
